@@ -1,0 +1,321 @@
+19:56:39 04/06/24 - neo logged in
+19:57:25 04/06/24 - neo failed to purchase a car
+19:58:14 04/06/24 - neo logged in
+19:58:17 04/06/24 - neo purchased a car
+19:58:22 04/06/24 - neo purchased a car
+19:58:33 04/06/24 - neo failed to purchase a car
+19:58:41 04/06/24 - neo viewed tickets
+19:58:49 04/06/24 - neo printed all cars
+19:58:58 04/06/24 - neo printed new cars
+19:59:06 04/06/24 - neo printed used cars
+19:59:26 04/06/24 - neo failed to purchase a car
+19:59:31 04/06/24 - neo signed out
+18:45:52 04/07/24 - neo logged in
+18:45:54 04/07/24 - neo failed to purchase a car
+18:45:56 04/07/24 - neo signed out
+22:26:22 04/07/24 - noe attempted to log in for more than 3 times
+22:26:26 04/07/24 - ere attempted to log in for more than 3 times
+22:26:28 04/07/24 - df attempted to log in for more than 3 times
+22:26:50 04/07/24 - neo logged in
+22:26:52 04/07/24 - neo viewed tickets
+22:26:58 04/07/24 - neo printed all cars
+22:27:06 04/07/24 - neo printed new cars
+22:27:16 04/07/24 - neo printed used cars
+22:27:32 04/07/24 - neo failed to purchase a car
+22:27:35 04/07/24 - neo viewed tickets
+22:27:36 04/07/24 - neo signed out
+22:39:34 04/07/24 - neo attempted to log in for more than 3 times
+22:39:46 04/07/24 - neo logged in
+22:39:49 04/07/24 - neo viewed tickets
+22:39:53 04/07/24 - neo signed out
+22:57:31 04/07/24 - neo logged in
+22:57:33 04/07/24 - neo printed all cars
+23:31:37 04/07/24 - neo signed out
+13:21:27 04/13/24 - neo attempted to log in for more than 3 times
+13:21:31 04/13/24 - noe attempted to log in for more than 3 times
+13:21:33 04/13/24 - noe attempted to log in for more than 3 times
+14:15:14 04/13/24 - neo logged in
+14:15:16 04/13/24 - neo viewed tickets
+14:15:19 04/13/24 - neo signed out
+14:29:45 04/13/24 - neo logged in
+14:29:48 04/13/24 - neo printed all cars
+14:33:15 04/13/24 - neo logged in
+14:33:16 04/13/24 - neo printed all cars
+14:33:20 04/13/24 - neo printed new cars
+14:33:28 04/13/24 - neo printed used cars
+14:33:37 04/13/24 - neo failed to purchase a car
+14:33:44 04/13/24 - neo viewed tickets
+14:33:48 04/13/24 - neo signed out
+14:35:39 04/13/24 - neo logged in
+14:35:40 04/13/24 - neo printed all cars
+14:35:44 04/13/24 - neo printed new cars
+14:35:51 04/13/24 - neo failed to purchase a car
+14:35:54 04/13/24 - neo viewed tickets
+14:35:56 04/13/24 - neo signed out
+17:18:42 04/13/24 - neo logged in
+17:18:43 04/13/24 - neo printed all cars
+17:18:46 04/13/24 - neo printed new cars
+17:18:58 04/13/24 - neo printed new cars
+17:19:23 04/13/24 - neo printed used cars
+17:21:51 04/13/24 - neo logged in
+17:21:53 04/13/24 - neo printed all cars
+17:22:04 04/13/24 - neo printed new cars
+17:22:24 04/13/24 - neo printed used cars
+17:23:08 04/13/24 - neo failed to purchase a car
+17:23:16 04/13/24 - neo viewed tickets
+17:23:25 04/13/24 - neo printed all cars
+17:27:14 04/13/24 - neo logged in
+17:27:25 04/13/24 - neo failed to purchase a car
+17:27:32 04/13/24 - neo viewed tickets
+18:09:53 04/13/24 - neo logged in
+18:09:54 04/13/24 - neo printed all cars
+18:09:57 04/13/24 - neo printed new cars
+18:33:12 04/13/24 - neo logged in
+18:33:16 04/13/24 - neo printed all cars
+18:33:19 04/13/24 - neo printed new cars
+18:33:22 04/13/24 - neo printed used cars
+18:33:34 04/13/24 - neo purchased a car
+18:33:39 04/13/24 - neo purchased a car
+18:33:41 04/13/24 - neo failed to purchase a car
+18:33:45 04/13/24 - neo viewed tickets
+18:34:11 04/13/24 - neo viewed tickets
+18:34:13 04/13/24 - neo signed out
+18:46:23 04/13/24 - neo logged in
+18:46:29 04/13/24 - neo purchased a car
+18:46:32 04/13/24 - neo purchased a car
+18:46:36 04/13/24 - neo failed to purchase a car
+18:46:38 04/13/24 - neo signed out
+18:55:50 04/13/24 - neo attempted to log in for more than 3 times
+18:57:09 04/13/24 - neo attempted to log in for more than 3 times
+18:59:13 04/13/24 - neo attempted to log in for more than 3 times
+18:59:52 04/13/24 - neo attempted to log in for more than 3 times
+18:59:52 04/13/24 -         return new String[]{ attempted to log in for more than 3 times
+18:59:52 04/13/24 -             firstName, attempted to log in for more than 3 times
+19:00:20 04/13/24 - neo logged in
+19:03:59 04/13/24 - neo logged in
+19:07:25 04/13/24 - neo logged in
+19:07:27 04/13/24 - neo purchased a car
+19:07:30 04/13/24 - neo purchased a car
+19:07:31 04/13/24 - neo failed to purchase a car
+19:07:33 04/13/24 - neo signed out
+19:09:21 04/13/24 - neo logged in
+19:09:23 04/13/24 - neo purchased a car
+19:09:28 04/13/24 - neo failed to purchase a car
+19:09:40 04/13/24 - neo logged in
+19:09:41 04/13/24 - neo purchased a car
+19:09:44 04/13/24 - neo purchased a car
+19:09:46 04/13/24 - neo failed to purchase a car
+19:09:48 04/13/24 - neo signed out
+19:25:15 04/13/24 - neo logged in
+19:25:17 04/13/24 - neo purchased a car
+19:25:18 04/13/24 - neo purchased a car
+19:25:20 04/13/24 - neo failed to purchase a car
+19:25:22 04/13/24 - neo signed out
+19:30:17 04/13/24 - neo logged in
+19:30:20 04/13/24 - neo purchased a car
+19:30:22 04/13/24 - neo purchased a car
+19:30:25 04/13/24 - neo failed to purchase a car
+19:30:27 04/13/24 - neo signed out
+19:37:39 04/13/24 - neo attempted to log in for more than 3 times
+19:37:51 04/13/24 - neo logged in
+19:37:55 04/13/24 - neo purchased a car
+19:37:56 04/13/24 - neo purchased a car
+19:37:58 04/13/24 - neo failed to purchase a car
+19:38:01 04/13/24 - neo signed out
+19:45:58 04/13/24 - neo logged in
+19:46:01 04/13/24 - neo purchased a car
+19:46:02 04/13/24 - neo purchased a car
+19:46:03 04/13/24 - neo failed to purchase a car
+19:46:05 04/13/24 - neo signed out
+19:47:21 04/13/24 - neo logged in
+19:47:24 04/13/24 - neo purchased a car
+19:47:25 04/13/24 - neo purchased a car
+19:47:27 04/13/24 - neo failed to purchase a car
+19:48:01 04/13/24 - neo signed out
+20:01:56 04/13/24 - neo logged in
+20:01:58 04/13/24 - neo purchased a car
+20:02:00 04/13/24 - neo failed to purchase a car
+20:02:02 04/13/24 - neo signed out
+20:04:10 04/13/24 - neo logged in
+20:04:12 04/13/24 - neo purchased a car
+20:04:13 04/13/24 - neo purchased a car
+20:04:15 04/13/24 - neo failed to purchase a car
+20:04:18 04/13/24 - neo signed out
+20:05:34 04/13/24 - neo logged in
+20:05:36 04/13/24 - neo purchased a car
+20:06:37 04/13/24 - neo failed to purchase a car
+20:06:38 04/13/24 - neo printed all cars
+20:06:44 04/13/24 - neo failed to purchase a car
+20:07:12 04/13/24 - neo logged in
+20:07:14 04/13/24 - neo purchased a car
+20:07:15 04/13/24 - neo purchased a car
+20:07:17 04/13/24 - neo failed to purchase a car
+20:07:19 04/13/24 - neo signed out
+20:18:32 04/13/24 - neo logged in
+20:18:33 04/13/24 - neo purchased a car
+20:18:35 04/13/24 - neo failed to purchase a car
+20:18:37 04/13/24 - neo failed to purchase a car
+20:19:03 04/13/24 - neo attempted to log in for more than 3 times
+20:19:17 04/13/24 - neo logged in
+20:19:18 04/13/24 - neo purchased a car
+20:19:19 04/13/24 - neo purchased a car
+20:19:22 04/13/24 - neo failed to purchase a car
+20:19:26 04/13/24 - neo signed out
+20:21:10 04/13/24 - neo attempted to log in for more than 3 times
+20:21:23 04/13/24 - neo logged in
+20:21:24 04/13/24 - neo purchased a car
+20:21:26 04/13/24 - neo failed to purchase a car
+20:21:33 04/13/24 - neo signed out
+20:23:05 04/13/24 - neo logged in
+20:23:07 04/13/24 - neo purchased a car
+20:23:08 04/13/24 - neo purchased a car
+20:23:09 04/13/24 - neo failed to purchase a car
+20:23:10 04/13/24 - neo signed out
+20:30:45 04/13/24 - neo logged in
+20:30:56 04/13/24 - neo purchased a car
+20:31:00 04/13/24 - neo signed out
+20:33:20 04/13/24 - neo logged in
+20:33:38 04/13/24 - neo purchased a car
+20:33:41 04/13/24 - neo failed to purchase a car
+20:33:46 04/13/24 - neo signed out
+22:11:48 04/13/24 - neo logged in
+22:12:34 04/13/24 - neo logged in
+22:12:36 04/13/24 - neo purchased a car
+22:12:43 04/13/24 - neo signed out
+23:47:19 04/13/24 - neo logged in
+21:31:49 04/15/24 - neo logged in
+21:34:03 04/15/24 - neo logged in
+21:41:26 04/15/24 - neo logged in
+21:47:25 04/15/24 - neo logged in
+21:49:24 04/15/24 - neo logged in
+21:53:58 04/15/24 - neo logged in
+22:00:59 04/15/24 - neo logged in
+22:10:24 04/15/24 - neo logged in
+22:11:03 04/15/24 - neo logged in
+22:12:33 04/15/24 - neo logged in
+22:52:53 04/15/24 - neo logged in
+23:07:59 04/15/24 - neo logged in
+23:10:27 04/15/24 - neo logged in
+23:10:50 04/15/24 - stte attempted to log in for more than 3 times
+23:10:51 04/15/24 - neo logged in
+23:15:52 04/15/24 - neo logged in
+23:16:21 04/15/24 - neo logged in
+23:30:52 04/15/24 - eno attempted to log in for more than 3 times
+23:31:03 04/15/24 - neo logged in
+23:36:42 04/15/24 - neo logged in
+23:38:26 04/15/24 - neo logged in
+23:44:06 04/15/24 - neo attempted to log in for more than 3 times
+23:44:21 04/15/24 -  	               float price, String transmission, String vin, String fuelType, int year,  attempted to log in for more than 3 times
+23:44:25 04/15/24 - L8GKCj$A attempted to log in for more than 3 times
+23:44:34 04/15/24 - neo logged in
+00:07:30 04/16/24 - neo logged in
+00:07:35 04/16/24 - neo failed to purchase a car
+00:08:22 04/16/24 - neo logged in
+00:08:24 04/16/24 - neo failed to purchase a car
+00:08:30 04/16/24 - neo purchased a car
+00:08:34 04/16/24 - neo viewed tickets
+00:09:10 04/16/24 - neo purchased a car
+00:09:31 04/16/24 - neo signed out
+00:10:04 04/16/24 - neo logged in
+00:10:07 04/16/24 - neo failed to purchase a car
+00:10:08 04/16/24 - neo signed out
+00:10:43 04/16/24 - neo logged in
+00:10:46 04/16/24 - neo purchased a car
+00:10:48 04/16/24 - neo signed out
+10:23:52 04/16/24 - neo logged in
+10:23:58 04/16/24 - neo failed to purchase a car
+10:24:01 04/16/24 - neo purchased a car
+10:24:04 04/16/24 - neo viewed tickets
+10:25:24 04/16/24 - neo logged in
+10:25:26 04/16/24 - neo failed to purchase a car
+10:25:28 04/16/24 - neo purchased a car
+10:25:30 04/16/24 - neo viewed tickets
+10:25:37 04/16/24 - neo signed out
+10:28:47 04/16/24 - neo logged in
+10:29:05 04/16/24 - neo purchased a car
+10:29:09 04/16/24 - neo purchased a car
+10:29:11 04/16/24 - neo signed out
+10:30:15 04/16/24 - neo logged in
+10:30:17 04/16/24 - neo purchased a car
+10:30:19 04/16/24 - neo purchased a car
+10:31:35 04/16/24 - neo logged in
+10:31:38 04/16/24 - neo purchased a car
+10:31:39 04/16/24 - neo purchased a car
+10:31:40 04/16/24 - neo failed to purchase a car
+10:31:42 04/16/24 - neo signed out
+10:41:19 04/16/24 - neo logged in
+10:41:22 04/16/24 - neo purchased a car
+10:43:13 04/16/24 - neo logged in
+10:43:17 04/16/24 - neo purchased a car
+10:43:19 04/16/24 - neo purchased a car
+10:43:21 04/16/24 - neo purchased a car
+10:43:23 04/16/24 - neo purchased a car
+10:43:24 04/16/24 - neo purchased a car
+10:43:25 04/16/24 - neo purchased a car
+10:43:29 04/16/24 - neo purchased a car
+10:43:32 04/16/24 - neo purchased a car
+10:43:34 04/16/24 - neo purchased a car
+10:43:36 04/16/24 - neo purchased a car
+10:43:37 04/16/24 - neo failed to purchase a car
+10:43:42 04/16/24 - neo purchased a car
+10:43:43 04/16/24 - neo purchased a car
+10:43:45 04/16/24 - neo purchased a car
+10:43:46 04/16/24 - neo purchased a car
+10:43:50 04/16/24 - neo viewed tickets
+10:44:47 04/16/24 - neo purchased a car
+10:45:04 04/16/24 - neo signed out
+10:45:20 04/16/24 - neo logged in
+10:45:22 04/16/24 - neo failed to purchase a car
+10:45:26 04/16/24 - neo purchased a car
+10:45:29 04/16/24 - neo signed out
+11:13:21 04/16/24 - neo logged in
+11:14:04 04/16/24 - neo signed out
+11:15:01 04/16/24 - neo logged in
+11:18:59 04/16/24 - neo attempted to log in for more than 3 times
+11:19:23 04/16/24 - neo logged in
+11:20:08 04/16/24 - eno attempted to log in for more than 3 times
+11:20:09 04/16/24 - neo logged in
+11:30:24 04/16/24 - neo printed all cars
+11:30:26 04/16/24 - neo printed all cars
+11:30:35 04/16/24 - neo failed to purchase a car
+11:30:47 04/16/24 - neo viewed tickets
+11:37:35 04/16/24 - neo attempted to log in for more than 3 times
+11:37:51 04/16/24 - neo logged in
+11:41:04 04/16/24 - neo attempted to log in for more than 3 times
+11:41:04 04/16/24 -         System.out.println("Please enter valid numeric values."); attempted to log in for more than 3 times
+11:41:04 04/16/24 -     } catch (Exception e) { attempted to log in for more than 3 times
+11:41:32 04/16/24 - neo logged in
+12:04:23 04/16/24 - neo logged in
+12:04:25 04/16/24 - neo purchased a car
+12:05:21 04/16/24 - neo failed to purchase a car
+12:05:25 04/16/24 - neo failed to purchase a car
+12:05:30 04/16/24 - neo purchased a car
+12:05:36 04/16/24 - neo viewed tickets
+12:07:21 04/16/24 - neo logged in
+12:07:36 04/16/24 - neo purchased a car
+12:07:39 04/16/24 - neo signed out
+12:10:31 04/16/24 - neo logged in
+12:11:32 04/16/24 - neo signed out
+14:38:13 04/16/24 - neo logged in
+14:15:47 04/17/24 - neo logged in
+14:15:54 04/17/24 - neo printed all cars
+14:16:04 04/17/24 - neo printed new cars
+14:16:09 04/17/24 - neo printed used cars
+14:16:18 04/17/24 - neo failed to purchase a car
+14:16:29 04/17/24 - neo failed to purchase a car
+14:16:38 04/17/24 - neo failed to purchase a car
+14:16:41 04/17/24 - neo failed to purchase a car
+14:16:47 04/17/24 - neo failed to purchase a car
+14:16:51 04/17/24 - neo failed to purchase a car
+14:16:56 04/17/24 - neo viewed tickets
+14:17:28 04/17/24 - neo viewed tickets
+14:17:31 04/17/24 - neo viewed tickets
+19:27:38 04/17/24 - neo logged in
+19:31:09 04/17/24 - neo logged in
+19:36:38 04/17/24 - neo logged in
+19:36:51 04/17/24 - neo purchased a car
+19:37:29 04/17/24 - neo logged in
+19:37:40 04/17/24 - neo failed to purchase a car
+19:37:54 04/17/24 - neo failed to purchase a car
+20:05:36 04/17/24 - neo logged in
+20:11:47 04/17/24 - neo logged in
